@@ -1,5 +1,10 @@
 # Geospatial analysis with Python
 
+
+# 开启代码笔记本的入口
+# cmd input:
+jupyter notebook --notebook-dir='D:\学习笔记\地理信息分析基础\GeospatialAnalysis'
+
 ### Python地理空间分析指南
 
 #### Concepts
